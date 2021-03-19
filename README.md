@@ -1,8 +1,8 @@
 ![Banner](https://github.com/wekenzi/wekenzi/blob/main/banner.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
-<h3 align="center">I'm a Software Engineer 👨🏻‍💻 who likes building and developing the web. 🖥️</h3>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Mohamed Khaled</h1>
+<h3 align="left">I'm a Software Engineer 👨🏻‍💻 who likes building and developing the web. 🖥️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wekenzi&label=Views&color=0e75b6&style=flat" alt="wekenzi" /> </p>
 
