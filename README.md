@@ -1,4 +1,4 @@
-![Banner](https://github.com/AhmadDalao/AhmadDalao/blob/main/mybanner2.png)
+![Banner](https://github.com/wekenzi/wekenzi/blob/main/banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
