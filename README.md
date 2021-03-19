@@ -1,11 +1,6 @@
 ![Banner](https://github.com/AhmadDalao/AhmadDalao/blob/main/mybanner2.png)
 
 
-<!-- retro visitor counter -->
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/AhmadDalao/count.svg" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Mohamed Khaled</h1>
 <h3 align="center">I'm a Software Engineer 👨🏻‍💻 who likes building and developing the web. 🖥️</h3>
 
